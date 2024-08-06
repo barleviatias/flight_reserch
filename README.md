@@ -22,14 +22,8 @@ This project analyzes a large dataset of flight information, focusing on aspects
 
 1. Clone the repository:
    ```
-   git clone [your-repository-url]
-   cd flight-data-analysis
-   ```
-
-2. (Optional but recommended) Create a virtual environment:
-   ```
-   python -m venv venv
-   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+   git clone https://github.com/barleviatias/flight_reserch.git
+   cd flight_reserch
    ```
 
 3. Install required packages:
